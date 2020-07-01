@@ -2,6 +2,14 @@
 
 This is our working space for ["M5 Forecasting - Accuracy" on Kaggle competition.](https://www.kaggle.com/c/m5-forecasting-accuracy/)
 
+# Final result
+
+The best model I trained gets 0.55640 equivalence to the rank 20th in [the leaderboard](https://www.kaggle.com/c/m5-forecasting-accuracy/leaderboard).
+
+Due to my mistake in the end of the competition (I don't know that I have to select the final submission to the scoring system) so I ended up at 2920th.
+
+![Score](/score.png?raw=true "My Score") 
+
 
 # What is M5 Competition?
 M5 or 5th Makridakis Competitions is a big forcasting challenge asking you to estimate, **as precisely as possible**, the point forecasts of the unit sales of various products sold in the USA by Walmart. 
